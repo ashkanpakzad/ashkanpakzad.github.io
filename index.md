@@ -4,8 +4,11 @@ Interests include using imaging technology in Heritage Science, 3D visualisation
 Will take any excuse to get on a boat!
 ---
 ## Education:
+<ul>
 * MRes Medical Imaging 2019, University College London<br>
 * MSci Medical Physics 2017, University College London
+<li>
+
 ---
 ## Projects:
 ### Improving X-ray CT images of the Antikythera Mechanism

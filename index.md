@@ -1,8 +1,14 @@
 ## Portfolio
-
+UCL Medical Imaging PhD student, research focusing on implementing machine learning techniques to analyse X-ray CT images associated with respiratory diseases.
+Interests include using imaging technology in Heritage Science, 3D visualisations and Raspberry Pi & Arduino enthusiast.
+Will take any excuse to get on a boat!
 ---
-
-# Improving X-ray CT images of the Antikythera Mechanism
+## Education:
+* MRes Medical Imaging 2019, University College London<br>
+* MSci Medical Physics 2017, University College London
+---
+## Projects:
+### Improving X-ray CT images of the Antikythera Mechanism
 <img src="images/akm_sino.png?raw=true"/>
 [Paper: Improved X-ray computed tomography reconstruction of the largest fragment of the Antikythera Mechanism, an ancient Greek astronomical calculator](https://doi.org/10.1371/journal.pone.0207430)
 <br>
@@ -10,7 +16,7 @@
 <br>
 DESCRIPTION
 
-# Airway tapering rate analysis based on chest X-ray CT
+### Airway tapering rate analysis based on chest X-ray CT
 image
 <br>
 DESCRIPTION

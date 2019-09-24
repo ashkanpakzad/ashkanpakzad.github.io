@@ -1,16 +1,20 @@
 title: Ashkan Pakzad # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description
-  <br><br>
-  Second description
-  <br><br>
-  <a href="https://www.linkedin.com/in/ashkanpakzad/">LinkedIn</a>
+  UCL Medical Imaging PhD student, research focusing on implementing machine learning techniques to analyse X-ray CT images associated with respiratory diseases.
+  Interests include using imaging technology in Heritage Science, 3D visualisations and Raspberry Pi & Arduino enthusiast.
+  Will take any excuse to get on a boat!
   <br><br>
   <a href="https://www.twitter.com/quarknotes">Twitter</a>
-  <br><br>
+  <br>
   <a href="https://www.medium.com/@quarknotes">Medium</a>
+  <br>
+  <a href="https://orcid.org/0000-0002-0802-5590">Orcid ID</a>
+  <br>
+  <a href="https://www.linkedin.com/in/ashkanpakzad/">LinkedIn</a>
   <br><br>
-
+  Education:<br>
+    *2019 MRes Medical Imaging, University College London<br>
+    *2017 MSci Medical Physics, University College London
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here

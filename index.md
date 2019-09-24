@@ -10,15 +10,14 @@ Will take any excuse to get on a boat!
 * MSci Medical Physics 2017, University College London
 
 ---
-
 ## Projects:
 ### Improving X-ray CT images of the Antikythera Mechanism
 <img src="images/akm_sino.png?raw=true"/>
-[Paper: Improved X-ray computed tomography reconstruction of the largest fragment of the Antikythera Mechanism, an ancient Greek astronomical calculator](https://doi.org/10.1371/journal.pone.0207430)
+[Improved X-ray computed tomography reconstruction of the largest fragment of the Antikythera Mechanism, an ancient Greek astronomical calculator * **Pakzad A**, Iacoviello F, Ramsey A, Speller R, Griffiths J, Freeth T, Gibson A (2018) PLOS ONE*](https://doi.org/10.1371/journal.pone.0207430)
 <br>
-[3D model](https://sketchfab.com/3d-models/antikythera-mechanism-main-fragment-ct-model-d7f48c8999c5406db1a9edba8a350a47)
+[3D Sketchfab model based on improved CT images](https://sketchfab.com/3d-models/antikythera-mechanism-main-fragment-ct-model-d7f48c8999c5406db1a9edba8a350a47)
 <br>
-DESCRIPTION
+The Antikythera Mechanism is best described as a 2000 year old ancient greek astronomical computer. Having laid on the sea for the majority of this time its bronze interior has corroded and calcified making it incredibly fragile. X-ray CT was utilised as a non-destructive tool to analyse it, unfortunately it became apparent that the most promising scan of the main fragment was missing raw projections. In this project where projections were missing and reconstructed the CT images to the originally intended quality.
 
 ### Airway tapering rate analysis based on chest X-ray CT
 image

@@ -2,14 +2,15 @@
 UCL Medical Imaging PhD student, research focusing on implementing machine learning techniques to analyse X-ray CT images associated with respiratory diseases.
 Interests include using imaging technology in Heritage Science, 3D visualisations and Raspberry Pi & Arduino enthusiast.
 Will take any excuse to get on a boat!
----
-## Education:
-<ul>
-* MRes Medical Imaging 2019, University College London<br>
-* MSci Medical Physics 2017, University College London
-<li>
 
 ---
+
+## Education:
+* MRes Medical Imaging 2019, University College London<br>
+* MSci Medical Physics 2017, University College London
+
+---
+
 ## Projects:
 ### Improving X-ray CT images of the Antikythera Mechanism
 <img src="images/akm_sino.png?raw=true"/>

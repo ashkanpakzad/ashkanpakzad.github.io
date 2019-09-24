@@ -2,28 +2,16 @@
 
 ---
 
-### Category Name 1 
+## Improving X-ray CT images of the Antikythera Mechanism
+<img src="images/akm_sino.png?raw=true"/>
+[Paper: Improved X-ray computed tomography reconstruction of the largest fragment of the Antikythera Mechanism, an ancient Greek astronomical calculator](https://doi.org/10.1371/journal.pone.0207430)
+[3D model](https://sketchfab.com/3d-models/antikythera-mechanism-main-fragment-ct-model-d7f48c8999c5406db1a9edba8a350a47)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Airway tapering rate analysis based on chest X-ray CT
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 

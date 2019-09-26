@@ -19,7 +19,7 @@ The goal of this project is to come up with a more objective method to measure t
 <br>
 An automated pipeline based on Quan et. al. 2018* to measure the tapering rate of all airways given an airway segmentation and CT has been produced. The pipeline considers the cross-sectional area at successive intervals from the carina to peripheral end along the airway, identifying false measurements due to bifurcations. An exponential curve is then fit to the remaining area measurements, computing a tapering rate. Measuring not just the inner airway taper rate but also the airway wall taper rate. As the airway lumen is often plugged in Cystic Fibrosis, the measurement of an inner taper rate is not feasible. This gives us a direct objective measure of the geometry of the airway and could help to precisely ascertain disease severity in structural airway diseases.
 <br>
-&ast; *K. Quan et al., “Tapering analysis of airways with bronchiectasis,” Proc. SPIE 10574, 105742G (2018)*
+*K. Quan et al., “Tapering analysis of airways with bronchiectasis,” Proc. SPIE 10574, 105742G (2018)*
 
 
 ### Improving X-ray CT images of the Antikythera Mechanism

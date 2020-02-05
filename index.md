@@ -1,16 +1,22 @@
-## Portfolio
-UCL Medical Imaging PhD student, research focusing on implementing deeplearning to analyse X-ray CT images of the lungs.
-Interests include Heritage Science imaging, 3D visualisations, Raspberry Pi, Arduino and making.
-Will take any excuse to get on a boat!
+# Portfolio
+University College London Medical Imaging PhD student, research focusing on implementing deeplearning to analyse X-ray CT images of the lungs.
+Interests include Photogrammetry, Heritage Science imaging, 3D visualisations and making.
+Will also take any excuse to get on a boat!
 
 ---
 
-## Education:
+## Education
 * MRes Medical Imaging 2019, University College London
 * MSci Medical Physics 2017, University College London
 
 ---
-## Projects:
+
+## PGTA Teaching
+* INST0044: Introduction to Digitisation (2019/20)
+* ENGF0003: Mathematical Modelling and Analysis 1 (19/20)
+
+---
+## Projects
 
 ### Airway tapering rate analysis based on chest X-ray CT
 <img src="images/taper_rate_pipeline.png?raw=true"/>
@@ -32,12 +38,7 @@ In this project, those missing projections were identified by analysis of the ra
 * [3D MODEL](https://sketchfab.com/3d-models/antikythera-mechanism-main-fragment-ct-model-d7f48c8999c5406db1a9edba8a350a47) Sketchfab model based on the improved CT images
 * [X-RAY CT DATA](https://doi.org/10.7910/DVN/UCXZWU)
 
-
 ---
-
-
-
-
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->

@@ -11,9 +11,10 @@ Will also take any excuse to get on a boat!
 
 ---
 
-## PGTA Teaching
-* INST0044: Introduction to Digitisation (2019/20)
-* ENGF0003: Mathematical Modelling and Analysis 1 (19/20)
+## Teaching
+* ENGF0003: Mathematical Modelling and Analysis 1 (20/21) - Computational modelling workshop lead
+* INST0044: Introduction to Digitisation (2019/20) - Tutorials co-lead
+* ENGF0003: Mathematical Modelling and Analysis 1 (19/20) - Computational modelling workshop Facilitator
 
 ---
 ## Projects
